@@ -10,7 +10,7 @@ INSERT INTO projects VALUES (9, "Project_9", "Agriculture", 60000, 09/16/20, 10/
 INSERT INTO projects VALUES (10, "Project_10", "Agriculture", 120000, 12/10/20, 12/20/20);
 
 INSERT INTO users VALUES (1, "Bob", 25);
-INSERT INTO users VALUES (2, "Sarah", 27);
+INSERT INTO users VALUES (2, "Sarah", 46);
 INSERT INTO users VALUES (3, "John", 30);
 INSERT INTO users VALUES (4, "Amy", 29);
 INSERT INTO users VALUES (5, "Tim", 49);
