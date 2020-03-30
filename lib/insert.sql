@@ -9,4 +9,42 @@ INSERT INTO projects VALUES (8, "Project_8", "Agriculture", 40000, 06/09/20, 12/
 INSERT INTO projects VALUES (9, "Project_9", "Agriculture", 60000, 09/16/20, 10/16/20);
 INSERT INTO projects VALUES (10, "Project_10", "Agriculture", 120000, 12/10/20, 12/20/20);
 
-INSERT INTO users VALUES (1, "Bob", 25)
+INSERT INTO users VALUES (1, "Bob", 25);
+INSERT INTO users VALUES (2, "Sarah", 27);
+INSERT INTO users VALUES (3, "John", 30);
+INSERT INTO users VALUES (4, "Amy", 29);
+INSERT INTO users VALUES (5, "Tim", 49);
+INSERT INTO users VALUES (6, "Gina", 32);
+INSERT INTO users VALUES (7, "Raymond", 40);
+INSERT INTO users VALUES (8, "Rosa", 30);
+INSERT INTO users VALUES (9, "Jake", 37);
+INSERT INTO users VALUES (10, "Eleanor", 26);
+INSERT INTO users VALUES (11, "Jason", 35);
+INSERT INTO users VALUES (12, "Tahani", 28);
+INSERT INTO users VALUES (13, "Chidi", 36);
+INSERT INTO users VALUES (14, "Janet", 10);
+INSERT INTO users VALUES (15, "Ron", 50);
+INSERT INTO users VALUES (16, "Leslie", 31);
+INSERT INTO users VALUES (17, "Andy", 40);
+INSERT INTO users VALUES (18, "Anne", 31);
+INSERT INTO users VALUES (19, "Ben", 36);
+INSERT INTO users VALUES (20, "April", 25);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
