@@ -29,22 +29,3 @@ INSERT INTO users VALUES (17, "Andy", 40);
 INSERT INTO users VALUES (18, "Anne", 31);
 INSERT INTO users VALUES (19, "Ben", 36);
 INSERT INTO users VALUES (20, "April", 25);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
