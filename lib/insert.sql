@@ -8,3 +8,5 @@ INSERT INTO projects VALUES (7, "Project_7", "Agriculture", 5000, 05/01/20, 9/01
 INSERT INTO projects VALUES (8, "Project_8", "Agriculture", 40000, 06/09/20, 12/09/20);
 INSERT INTO projects VALUES (9, "Project_9", "Agriculture", 60000, 09/16/20, 10/16/20);
 INSERT INTO projects VALUES (10, "Project_10", "Agriculture", 120000, 12/10/20, 12/20/20);
+
+INSERT INTO users VALUES (1, "Bob", 25)
